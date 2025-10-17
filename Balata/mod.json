@@ -1,0 +1,13 @@
+{
+	"id": "Balata",
+	"name": "Balata",
+	"display_name": "BalataMod",
+	"author": ["Vadde"],
+	"description": "Mod Chistoso Cffff",
+	"prefix": "BM",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "2776ba",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.0 Beta Alpha Preview betatester alpha beta"
+}
