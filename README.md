@@ -1,3 +1,6 @@
+INSTALACIÓN: 
+Solo mete la carpeta Balata en tu carpeta de mods de steammoded. 
+
 Mod de mrd este donde agrego cualquier cosa.
 Requiere steammoded y lovelyinjector. 
 Versión: Beta alpha 0.001.0 betatester preview alpha
